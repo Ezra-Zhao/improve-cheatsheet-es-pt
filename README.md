@@ -1,5 +1,7 @@
 # improve 速查表 | improve Cheatsheet | Guía rápida de improve
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 **计划才是产品，代码让便宜模型去写——先看第一屏：十一条命令先用哪条**
 
 > 一页看懂 shadcn/improve：shadcn 出的一套 agent skill。它自己从不改代码，只让最能干的模型审整个代码库，把发现写成一份份自包含的实施计划，放进 `plans/` 目录、一件一文件、带索引与依赖顺序，再交便宜模型照计划执行。贵模型花在判断上，便宜模型花在体力活上，这张卡把这个分工讲清。
